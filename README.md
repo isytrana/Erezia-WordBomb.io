@@ -3,7 +3,7 @@
 An external Python cheat for the game [wordbomb.io](https://wordbomb.io/) that works for almost all languages.
 
 You're currently viewing the **French** language.
-Check out the others below:
+Check out the others below:\n
 \- [Deutsch](https://github.com/isytrana/Erezia-WordBomb.io/tree/Deutsch)
 \- [Dutch](https://github.com/isytrana/Erezia-WordBomb.io/tree/Dutch)
 \- [Filipino](https://github.com/isytrana/Erezia-WordBomb.io/tree/Filipino)
