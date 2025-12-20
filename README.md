@@ -1,8 +1,8 @@
 # EreziaWB | [Discord](https://discord.gg/ZpqTHXjdsa)
 
-## External Python cheat for the game [WordBomb](https://wordbomb.io/), works for almost all languages.
+External Python cheat for the game [WordBomb](https://wordbomb.io/), works for almost all languages.
 
-## Check out the languages below:
+## Supported Languages:
 
 \- [Deutsch](https://github.com/isytrana/Erezia-WordBomb.io/tree/Deutsch)
 
