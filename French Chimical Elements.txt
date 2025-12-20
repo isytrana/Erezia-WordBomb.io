@@ -115,4 +115,5 @@ Fermium
 Thulium
 Mendelevium
 Ytterbium
+Lutetium
 Nobelium
