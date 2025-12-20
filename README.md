@@ -26,5 +26,6 @@
 
 # QnA
 
-Why isn't Turkey, Swedish, Finnish and Russian there?
-These languages have special accents, EreziaWB doesn't support those yet.
+Q: Why are Turkey, Swedish, Finnish and Russian unsupported?
+
+A: These languages have special accents, EreziaWB doesn't support those yet.
