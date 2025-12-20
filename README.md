@@ -1,6 +1,6 @@
 # EreziaWB | [Discord](https://discord.gg/ZpqTHXjdsa)
 
-## An external Python cheat for the game [wordbomb.io](https://wordbomb.io/) that works for almost all languages.
+## External Python cheat for the game [WordBomb](https://wordbomb.io/), works for almost all languages.
 
 ## Check out the languages below:
 
@@ -21,3 +21,9 @@
 \- [Portuguese](https://github.com/isytrana/Erezia-WordBomb.io/tree/Portuguese)
 
 \- [Spanish](https://github.com/isytrana/Erezia-WordBomb.io/tree/Spanish)
+
+-----------------------------------------------------------
+
+# Why isn't Turkey, Swedish, Finnish and Russian there?
+
+## These languages have special accents, EreziaWB doesn't support those yet.
